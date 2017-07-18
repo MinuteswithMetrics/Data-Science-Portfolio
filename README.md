@@ -47,5 +47,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Predicting Disease Spread](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/DengAI_%20Predicting%20Disease%20Spread%20.ipynb): A model to predict the total disease cases.
 	- [Naive Bees Classifier](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/naive_bees.ipynb): Develop  deep convolutional neural network (DCNN) to classify bees. 
 	
+- ### Data Visualization, Analysis, and Dashbords
 
+	-[Fatal Police Shooting] https://rpubs.com/wbgreen405/256438: This dashboard presents these fatal police shootings unadjusted for population demographics.
+	
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at dskswu@gmail.com. 
