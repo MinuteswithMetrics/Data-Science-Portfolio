@@ -7,7 +7,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
-- ###  [Coursera John Hopkins Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QH53TPEFP3WN) 
+- ###  [Coursera John Hopkins Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QH53TPEFP3WN) Certificates below:
 
 	- [The Data Scientist’s Toolbox ](https://www.coursera.org/account/accomplishments/certificate/A2REMB3T8QAK)
 	
@@ -29,7 +29,17 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 	- [Data Science Capstone ](https://www.coursera.org/account/accomplishments/certificate/VB5EPNZZ3QHK)
 
+- ###  Mastering Software Development Certificates below:
 
+	- [The R Programming Environment ](https://www.coursera.org/account/accomplishments/certificate/T7WPF2EC6PX4)
+	
+	- [Advanced R Programming ](https://www.coursera.org/account/accomplishments/certificate/85MZ7RR6N7U4)
+	
+	- [Building R Packages ](https://www.coursera.org/account/accomplishments/certificate/KFB4X5GV56DV)
+	
+	- [Building Data Visualization Tools ](https://www.coursera.org/account/accomplishments/certificate/7AWZ87CAC6SQ)
+	
+	-  Capstone (In Progress)
 
 - ### Machine Learning
 
