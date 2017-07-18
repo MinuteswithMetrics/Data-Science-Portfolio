@@ -9,7 +9,25 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ###  [Coursera John Hopkins Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QH53TPEFP3WN) 
 
-	- [The Data Scientist’s Toolbox ](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [The Data Scientist’s Toolbox ](https://www.coursera.org/account/accomplishments/certificate/A2REMB3T8QAK)
+	
+	- [R Programming](https://www.coursera.org/account/accomplishments/certificate/QTHCXE9Q3YQ6)
+	
+	- [Getting and Cleaning Data ](https://www.coursera.org/account/accomplishments/certificate/5PC8KN7FTTMU)
+	
+	- [Exploratory and Data Analysis ](https://www.coursera.org/account/accomplishments/certificate/Q8SKB44GTJCR)
+	
+	- [Reproducible Research ](https://www.coursera.org/account/accomplishments/certificate/9BB58SCZ4WBB)
+	
+	- [Statistical Inference ](https://www.coursera.org/account/accomplishments/certificate/8MB8CY4L5KMR)
+	
+	- [Regression Models ](https://www.coursera.org/account/accomplishments/certificate/TQ2T69ED6NX8)
+	
+	- [Practical Machine Learnings ](https://www.coursera.org/account/accomplishments/certificate/8XEADETCA25L)
+	
+	- [Developing Data Products ](https://www.coursera.org/account/accomplishments/certificate/JA5942KZN8WD)
+	
+	- [Data Science Capstone ](https://www.coursera.org/account/accomplishments/certificate/VB5EPNZZ3QHK)
 
 
 
