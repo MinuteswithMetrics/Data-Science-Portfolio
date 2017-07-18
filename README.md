@@ -49,6 +49,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 - ### Data Visualization, Analysis, and Dashbords
 
-	- [Fatal Police Shooting]https://rpubs.com/wbgreen405/256438: This dashboard presents these fatal police shootings unadjusted for population demographics.
+	- [Fatal Police Shooting](https://rpubs.com/wbgreen405/256438): This dashboard presents these fatal police shootings unadjusted for population demographics.
 	
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at dskswu@gmail.com. 
