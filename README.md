@@ -7,6 +7,12 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+- ###  [Coursera John Hopkins Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QH53TPEFP3WN) 
+
+	- [The Data Scientist’s Toolbox ](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+
+
+
 - ### Machine Learning
 
 	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
@@ -54,4 +60,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [ML Logistic Regression](http://rpubs.com/sajal_sharma/micro_logistic): Predicting salary class of a person using logistic regression.
 		- [ML Decision Trees and Random Forests](http://rpubs.com/sajal_sharma/micro_dt_rf): Using Decision Trees and Random Forests to classify schools as Private or Public.
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at contact@sajalsharma.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at dskswu@gmail.com. 
