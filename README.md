@@ -45,7 +45,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- [Warm Up: Predict Blood Donations](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/PREDICTING%20BLOOD%20DONATIONS.ipynb): A model to predict if a blood donor will donate within a given time window.
 	- [Predicting Disease Spread](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/DengAI_%20Predicting%20Disease%20Spread%20.ipynb): A model to predict the total disease cases.
-	- [Naive Bees Classifier](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/naive_bees.ipynb): Develop  deep convolutional neural network (DCNN) to classify bees. 
+	
 	
 - ### Machine Learning 
 
