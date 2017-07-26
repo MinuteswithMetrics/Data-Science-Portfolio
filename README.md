@@ -40,18 +40,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Building Data Visualization Tools ](https://www.coursera.org/account/accomplishments/certificate/7AWZ87CAC6SQ)
 	
 	-  Capstone (In Progress)
-
-- ### Data Science Competition
-
-	- [Warm Up: Predict Blood Donations](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/PREDICTING%20BLOOD%20DONATIONS.ipynb): A model to predict if a blood donor will donate within a given time window.
-	- [Predicting Disease Spread](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/DengAI_%20Predicting%20Disease%20Spread%20.ipynb): A model to predict the total disease cases.
 	
-	
-- ### Machine Learning 
-
-	- [Random Forest](https://rpubs.com/wbgreen405/226466): Use random forest algorithm to predict how well participant perform during exercise. 
-	
-- ### Deep Learning 
+- ###  Udacity Deep Learning Nanaodegree Foundation  below:
 
 	- [TV Script Generation](https://github.com/MinuteswithMetrics/DNLF_Generate_TV_Scripts/blob/master/dlnd_tv_script_generation.ipynb): This project objective to use to build a Recurrent Neural Network (RNN) using TensorFlow and use it to generate a new Simpsons TV script for a scene at Moe's Tavern using part of the Simpsons dataset of scripts from 27 seasons. The project was written in Python (on a Jupyter Notebook) using the libraries numpy and tensorflow, running on an Anaconda environment.
 	
@@ -60,7 +50,16 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Language Translation](https://github.com/MinuteswithMetrics/DLNF_Language_Translation/blob/master/dlnd_language_translation.ipynb): Using a sequence to sequence RNN model to translate sentences from English to French. The dataset is text files of ~140,000 fairly simple sentences in English and in French.
 	
 	- [Neural Network](https://github.com/MinuteswithMetrics/DLNF_First-Neural-Network/blob/master/Your%2Bfirst%2Bneural%2Bnetwork.ipynb): Develop a neural network to predict daily bike rental ridership
+- ### Data Science Competition
 	
+- ### Machine Learning 
+
+	- [Warm Up: Predict Blood Donations](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/PREDICTING%20BLOOD%20DONATIONS.ipynb): A model to predict if a blood donor will donate within a given time window.
+	
+	- [Predicting Disease Spread](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/DengAI_%20Predicting%20Disease%20Spread%20.ipynb): A model to predict the total disease cases.
+
+	- [Random Forest](https://rpubs.com/wbgreen405/226466): Use random forest algorithm to predict how well participant perform during exercise. 
+		
 - ### Data Visualization, Analysis, and Dashbords
 
 	- [Fatal Police Shooting](https://rpubs.com/wbgreen405/256438): This dashboard presents these fatal police shootings unadjusted for population demographics.
