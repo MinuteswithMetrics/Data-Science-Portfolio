@@ -42,21 +42,24 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	-  Capstone (In Progress)
 	
 - ###  Udacity Deep Learning Nanaodegree Foundation  below:
-
-	- [TV Script Generation](https://github.com/MinuteswithMetrics/DNLF_Generate_TV_Scripts/blob/master/dlnd_tv_script_generation.ipynb): This project objective to use to build a Recurrent Neural Network (RNN) using TensorFlow and use it to generate a new Simpsons TV script for a scene at Moe's Tavern using part of the Simpsons dataset of scripts from 27 seasons. The project was written in Python (on a Jupyter Notebook) using the libraries numpy and tensorflow, running on an Anaconda environment.
 	
-	- [Image Classification](https://github.com/MinuteswithMetrics/DLNF-Image-Classification/blob/master/dlnd_image_classification.ipynb): This project use CNN to classify images from the CIFAR-10 dataset.
+	- [Neural Network](https://github.com/MinuteswithMetrics/DLNF_First-Neural-Network/blob/master/Your%2Bfirst%2Bneural%2Bnetwork.ipynb): Develop a neural network to predict daily bike rental ridership
+
+- [Image Classification](https://github.com/MinuteswithMetrics/DLNF-Image-Classification/blob/master/dlnd_image_classification.ipynb): This project use CNN to classify images from the CIFAR-10 dataset.
+	
+	- [TV Script Generation](https://github.com/MinuteswithMetrics/DNLF_Generate_TV_Scripts/blob/master/dlnd_tv_script_generation.ipynb): This project objective to use to build a Recurrent Neural Network (RNN) using TensorFlow and use it to generate a new Simpsons TV script for a scene at Moe's Tavern using part of the Simpsons dataset of scripts from 27 seasons. The project was written in Python (on a Jupyter Notebook) using the libraries numpy and tensorflow, running on an Anaconda environment.	
 
 	- [Language Translation](https://github.com/MinuteswithMetrics/DLNF_Language_Translation/blob/master/dlnd_language_translation.ipynb): Using a sequence to sequence RNN model to translate sentences from English to French. The dataset is text files of ~140,000 fairly simple sentences in English and in French.
 	
-	- [Neural Network](https://github.com/MinuteswithMetrics/DLNF_First-Neural-Network/blob/master/Your%2Bfirst%2Bneural%2Bnetwork.ipynb): Develop a neural network to predict daily bike rental ridership
-- ### Data Science Competition
+	- [Generate Face](https://github.com/MinuteswithMetrics/DLNF_Face_Generation/blob/master/dlnd_face_generation.ipynb):  Used a generative adversarial networks to generate new images of faces.
 	
-- ### Machine Learning 
+- ### Data Science Competition
 
 	- [Warm Up: Predict Blood Donations](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/PREDICTING%20BLOOD%20DONATIONS.ipynb): A model to predict if a blood donor will donate within a given time window.
 	
 	- [Predicting Disease Spread](https://github.com/MinuteswithMetrics/Data-Science-Portfolio/blob/master/Data%20Competitions/DengAI_%20Predicting%20Disease%20Spread%20.ipynb): A model to predict the total disease cases.
+
+- ### Machine Learning 
 
 	- [Random Forest](https://rpubs.com/wbgreen405/226466): Use random forest algorithm to predict how well participant perform during exercise. 
 		
